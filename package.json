@@ -81,7 +81,7 @@
     "webpack-cli": "^3.3.10"
   },
   "dependencies": {
-    "salve": "^9.1.2"
+    "salve": "https://github.com/IordanisKostelidis/salve/releases/download/ds-3/salve-ds-3.tar.gz"
   },
   "husky": {
     "hooks": {
